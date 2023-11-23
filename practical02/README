@@ -1,3 +1,4 @@
 These are codes for practical 2
-gcc -o Conversion Conversion.c -lm
-gcc -o Sum Sum.c 
+gcc -o -Wall ceil ceil.c -lm
+gcc -o -Wall Conversion Conversion.c -lm
+gcc -o -Wall Sum Sum.c -lm 
