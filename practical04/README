@@ -1,0 +1,1 @@
+gcc -Wall -o Tan_Rad Tan_Rad.c -lm
