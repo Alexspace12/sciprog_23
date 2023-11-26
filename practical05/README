@@ -1,0 +1,4 @@
+Compiled using:
+
+gcc -Wall -o Fibonacci Fibonacci.c -lm
+gcc -Wall -o Inverse_Artan Inverse_Artan.c -lm
