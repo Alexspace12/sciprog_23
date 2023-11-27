@@ -1,0 +1,4 @@
+The code was compiled using: 
+gcc -Wall -o GCD GCD.c -lm
+
+
