@@ -1,0 +1,5 @@
+The files were compiled using Makefile 
+Both make and make -f Makefile were used and compiled the data.
+
+make
+make -f Makefile
