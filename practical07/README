@@ -1,0 +1,6 @@
+gcc -Wall -o Estimate_e Estimate_e.c -lm
+gcc -Wall -o Memory_all Memory_all.c -lm
+
+The strange event that happens after the 15th polynomial is the fact that 17th, 18th, 20th, etc polynomials cause negative values.
+This is due to the fact that these factorial exceed the range of the int data type 
+i.e. 17! = 355,687,428,096,000 which is greater than the range of int 
